@@ -1,4 +1,4 @@
-# 🏠 Tableau – Seattle Airbnb Market Analysis
+# 🏠 Seattle Airbnb Market Analysis Dashboard | Tableau
 
 ## 📊 Project Overview
 
